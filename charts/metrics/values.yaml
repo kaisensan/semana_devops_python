@@ -1,0 +1,9 @@
+name: metrics
+
+replicaCount: 1
+
+image:
+  repository: ghcr.io/fabiobartoli/semana-devops
+  tag: 5991bc4042e37c2cefbb6af80ace5e1996559eb0
+  pullPolicy: IfNotPresent
+

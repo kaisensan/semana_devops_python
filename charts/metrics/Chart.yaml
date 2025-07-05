@@ -1,0 +1,8 @@
+apiVersion: v2
+name: metrics
+description: Aplicativo Python da Semana DevOps
+sources:
+- https://github.com/rochacbruno/semana_devops_python
+type: application
+version: 0.1.0
+
